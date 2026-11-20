@@ -12,6 +12,7 @@
 ## Verified Reference Links
 
 - [Comes App Official Homepage](https://comes.app/) — Primary portal for verified builds, release history, and account access
+- [Download & Install Come App APK (v2.8.4)](https://comes.app/download/) — Step-by-step Android APK v2.8.4 (16.4 MB) installation, SHA-256 verification, OTP diagnostics, and iOS PWA setup
 - [comes.app — Android APK Install Guide](https://comes.app/blog/apk-download-install-guide/) — Step-by-step installation checklist and device permission verification
 - [Platform Safety & Audit Review](https://comes.app/blog/platform-safety-audit-review/) — Independent SSL, APK signature, and domain authenticity breakdown
 - [UPI Withdrawal & Rail Verification](https://comes.app/blog/upi-withdrawal-verification-guide/) — Settlement timing reference for IMPS and instant UPI rails
